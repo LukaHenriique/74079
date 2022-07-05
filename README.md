@@ -28,7 +28,8 @@
   <a href="https://www.linkedin.com/in/lucas-henrique-fagundes-0aa46a1b8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   ![Snake animation](https://github.com/74079/74079/blob/output/github-contribution-grid-snake.svg)
- 
+   ![Snake animation](https://github.com/74079/74079/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
 
